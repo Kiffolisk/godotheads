@@ -10,4 +10,4 @@ A Blockheads server is currently impossible to self host without a Mac or Mac VM
 This uses Godot because a lot of networking features The Blockheads uses are already built into base Godot.
 
 # Is this finished?
-It will never be completely finished. Any additional feature is accepted and exact porting from the Mac app to Godot is close to impossible.
+It will never be completely finished. Any additional feature is accepted and exact porting from the Mac app to Godot is close to impossible. (check [How can I help?](HELP.md))
