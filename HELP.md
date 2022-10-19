@@ -2,7 +2,7 @@
 You can help with anything!
 
 Currently, we need help with:
-- [ ] Getting the latest BlockheadsServer app data
+- [x] Getting the latest BlockheadsServer app data
 - [ ] Reversing world generation
 - [ ] Making good UI for the app
 - [ ] Reversing server packets
